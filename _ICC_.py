@@ -1,13 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Copyright (c) 2024 Paris Brain Institute. All rights reserved.
-
-Created on March 2025
-
-@author: Cassandra Dumas
-
-"""
-
 # ========================
 # MODULES
 # ========================
