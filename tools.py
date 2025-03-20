@@ -1,13 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Copyright (c) 2024 Paris Brain Institute. All rights reserved.
-
-Created on January 2025
-
-@author: Cassandra Dumas
-
-"""
-
 # Modules
 # -------
 import os
